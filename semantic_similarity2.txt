@@ -1,0 +1,6 @@
+watch next movie ...
+we try to find what next matching movie to the movie we just watch
+that by using spacy module and en_core_web_md model to 
+find from some movie titles we have and find dicription similarity 
+link for project :-
+https://github.com/Mohamedammar91/watch_next
